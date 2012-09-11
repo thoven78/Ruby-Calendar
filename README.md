@@ -1,4 +1,4 @@
-A Ruby Calendar that can be used with Sinatra Rails or any Ruby framework 
+A Ruby Calendar that can be used with Sinatra Rails or any Ruby web framework 
 ===============
 
 A Simple Ruby Calendar That can be used to display events
